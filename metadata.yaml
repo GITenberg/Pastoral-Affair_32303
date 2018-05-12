@@ -1,0 +1,32 @@
+_repo: Pastoral-Affair_32303
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Francis, Dick
+    alias: Francis, Richard D.
+    gutenberg_agent_id: '33940'
+    url: http://www.gutenberg.org/2009/agents/33940
+covers:
+- cover_type: archival
+  image_path: 32303-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stearns, Charles A.
+    gutenberg_agent_id: '26736'
+    url: http://www.gutenberg.org/2009/agents/26736
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32303'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+title: Pastoral Affair
+url: http://www.gutenberg.org/ebooks/32303
