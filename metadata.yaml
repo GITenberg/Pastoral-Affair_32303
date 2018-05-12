@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '26736'
     url: http://www.gutenberg.org/2009/agents/26736
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32303#Pastoral-Affair
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-05-09'
 gutenberg_type: Text
